@@ -20,7 +20,7 @@ class App extends Component {
       params: {
         part: 'snippet',
         maxResults: 5,
-        key: "AIzaSyDyzqBf1EgAB0Bdg5ho3dRka9HD3Np3oYI",
+        
         q : searchTerm,
       }
     })
